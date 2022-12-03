@@ -7,8 +7,8 @@ zsh-ex is plugin for zsh to easy extract any archive file(.zip .tar .7z) with ju
 - 7-zip
 
 ### Installation with [zap](https://github.com/zap-zsh/zap)
-**Put this into your zshrc.**
-> plug "sadikeey/zsh-ex"
+
+> plug "sadikeey/zsh-ex" # Put this into your .zshrc
 
 ### How to use 
 ```bash
