@@ -1,5 +1,5 @@
 # zsh-easy-extraction
-Extract any archive file(.zip .tar .7z) with just ex command.
+zsh-ex is plugin for zsh to easy extract any archive file(.zip .tar .7z) with just one ex command.
 
 ### Prerequisites
 - unzip
